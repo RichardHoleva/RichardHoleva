@@ -1,17 +1,18 @@
 # Hello World! I am Richard Holeva 👋
 
-🇸🇰 Slovak in 🇩🇰 Aarhus — studying **Multimedia Design** (frontend-focused).  
-I build with **React, JavaScript, HTML, CSS** and learn by shipping small projects.  
-🧠 Leveling up via **Scrimba** (to really understand the code).  
-🛜 Curious about **backend** (very early stage — just exploring Node/Express basics).
+I am a Slovak Multimedia Design student in Aarhus, Denmark  
+I build front end projects with React ⚛️, JavaScript 🟨, HTML 🧱, and CSS 🎨  
+I learn by shipping small projects and polishing them until they feel right ✨  
+I’m deepening the fundamentals with Scrimba 🧠 to really understand the code I write  
+I’m also exploring the backend 🛜 with Node.js and Express 🚂
 
 ## 🧰 Stack
-React · Vite · JS (ES6+) · HTML · CSS · Git/GitHub · VS Code
+React · Vite · JavaScript (ES6+) · HTML · CSS · Git/GitHub · VS Code
 
 ## 🌱 Currently Learning
-- Better React patterns (hooks, state, accessibility)  
-- Fetching & APIs  
-- Backend fundamentals (routing, REST, simple DBs)
+React patterns such as hooks, state management, and accessibility  
+Working with fetching and APIs  
+Backend fundamentals including routing, REST, and simple databases
 
 ## 🔗 Contact me
 🌐 Portfolio: https://richardholeva.github.io/portfolio  
